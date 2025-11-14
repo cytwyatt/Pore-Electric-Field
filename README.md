@@ -17,7 +17,3 @@ The program takes the following input files:
 ## Python Packages
 
 - `MDAnalysis`
-
-## TODO
-
-- Parallelize the code
